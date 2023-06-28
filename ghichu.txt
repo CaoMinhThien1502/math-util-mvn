@@ -1,0 +1,20 @@
+Lenehj duoi day lap lai cho tung project khi bat ddau dong bo len server
+git init
+git add .
+git commit -m "first upload"
+
+
+
+git branch -M main
+git remote add origin https://github.com/CaoMinhThien1502/math-util-mvn.git
+git push -u origin main
+
+sua code, sua thumucproject nhu moi ngay
+sau do vao project, bash go 3 lenh huyen thoai
+
+git add *
+git commit -m "li do sua code vao day"
+git push
+
+cu phap MARK DOWN(HTML dang dac biet)
+vaof sua edit README, go 3 lenh huyen thoais
